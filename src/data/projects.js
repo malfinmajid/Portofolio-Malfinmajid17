@@ -1,27 +1,5 @@
 export const projects = [
-    {
-        id: 1,
-        title: "Website Fuegomerch",
-        description: "I’m building an e-commerce website as a learning project.",
-        image: "/images/projects/Macbook.png",
-        category: "Web Apps",
-        technologies: ['Java Script', 'CodeIgniter', 'PHP', 'XAMPP'],
-        date: "01 August 2023",
-        demoUrl: ".....",
-        githubUrl: "https://github.com/malfinmajid"
-    },
-
-    {
-        id: 2,
-        title: "Web Fuegomerch mobile version",
-        description: "I’m building an e-commerce website as a learning project.",
-        image: "/images/projects/iPhone.png",
-        category: "Web Apps",
-        technologies: ['Java Script', 'CodeIgniter', 'PHP', 'XAMPP'],
-        date: "01 August 2023",
-        demoUrl: ".....",
-        githubUrl: "https://github.com/malfinmajid"
-    },
+    
 
     {
         id: 3,
