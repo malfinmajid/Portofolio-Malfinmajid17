@@ -85,7 +85,7 @@ export const projects = [
 
     {
         id: 8,
-        title: "Load Testing API DummyJSON (Apache Jmeter)",
+        title: "Performance Testing and Load Testing API DummyJSON (Apache Jmeter)",
         description: "This project Load Test API DummyJSON using Apache Jmeter",
         image: "/images/projects/jmeter.png",
         category: "API Test",
