@@ -19,7 +19,7 @@ export const projects = [
         category: "Document Test",
         technologies: ['Ms.Excel', 'PDF', 'Trello'],
         date: "01 Desember 2025",
-        demoUrl: "https://docs.google.com/spreadsheets/d/1gPMfLht1fb00Z3Y3lw13tt-FT-xITGuQ/edit?usp=sharing&ouid=101685180478536472135&rtpof=true&sd=true",
+        demoUrl: "https://drive.google.com/file/d/13KZReYpO37ysz0E3M_fPg3ZbL4cMS6qI/view?usp=sharing",
         githubUrl: "https://github.com/malfinmajid"
     },
 
