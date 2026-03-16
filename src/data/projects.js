@@ -3,7 +3,7 @@ export const projects = [
         id: 1,
         title: "Test Scenario and Test Case ParaBank",
         description: "A comprehensive manual testing project for the ParaBank banking web application (parabank.parasoft.com) which includes 4 main features, namely Login, Registration, Bill Payment, and Request Loan.",
-        image: "/images/projects/ParaBank.png",
+        image: "/images/projects/TC_TS_ParaBank.png",
         category: "Document Test",
         technologies: ['Ms.Excel', 'Trello'],
         date: "11 Maret 2026",
