@@ -1,6 +1,18 @@
 export const projects = [
     {
         id: 1,
+        title: "Test Scenario and Test Case ParaBank",
+        description: "A comprehensive manual testing project for the ParaBank banking web application (parabank.parasoft.com) which includes 4 main features, namely Login, Registration, Bill Payment, and Request Loan.",
+        image: "/images/projects/TestCaseParaBank.png",
+        category: "Document Test",
+        technologies: ['Ms.Excel', 'Trello'],
+        date: "11 Maret 2026",
+        demoUrl: "https://docs.google.com/spreadsheets/d/1GFbY_t8MYFaFasg9c9uGp_RexboQkL9J/edit?usp=sharing&ouid=101685180478536472135&rtpof=true&sd=true",
+        githubUrl: "https://github.com/malfinmajid"
+    },
+
+    {
+        id: 2,
         title: "Test Plan Web SauceDemo",
         description: "This Test Plan is created to plan and document testing activities for the Sauce Demo web application.",
         image: "/images/projects/TestPlan.png",
@@ -12,7 +24,7 @@ export const projects = [
     },
 
     {
-        id: 2,
+        id: 3,
         title: "Test Case SauceDemo Website",
         description: "This test case document was created to perform manual testing on the Login, Add to Cart, Sort feature, Cart, Payment, Checkout, and Logout features of the Sauce Demo web application.",
         image: "/images/projects/TestCase.png",
@@ -24,7 +36,7 @@ export const projects = [
     },
 
     {
-        id: 3,
+        id: 4,
         title: "Bug Reporting SauceDemo Website",
         description: "This bug report document is intended to record and document bugs identified in the Sauce Demo web application during manual testing.",
         image: "/images/projects/BugReporting.png",
@@ -36,7 +48,7 @@ export const projects = [
     },
 
     {
-        id: 4,
+        id: 5,
         title: "Test Plan API DummyJSON",
         description: "This Test Plan document is created as a guideline for testing the DummyJSON API to ensure that the testing process is carried out in a structured and well-directed manner.",
         image: "/images/projects/TestPlanAPI.png",
@@ -48,7 +60,7 @@ export const projects = [
     },
 
     {
-        id: 5,
+        id: 6,
         title: "Test Case API DummyJSON",
         description: "This Test Case document contains a collection of test scenarios for the DummyJSON API, prepared based on the Test Plan.",
         image: "/images/projects/TestCaseAPI.png",
@@ -60,7 +72,7 @@ export const projects = [
     },
 
     {
-        id: 6,
+        id: 7,
         title: "Manual Testing API DummyJSON",
         description: "This project API Test Based On Test Case API DummyJSON",
         image: "/images/projects/porto.png",
@@ -72,7 +84,7 @@ export const projects = [
     },
 
     {
-        id: 7,
+        id: 8,
         title: "Testing API DummyJSON (Postman)",
         description: "This project Test API DummyJSON using Postman",
         image: "/images/projects/postman.png",
@@ -84,7 +96,7 @@ export const projects = [
     },
 
     {
-        id: 8,
+        id: 10,
         title: "Performance Testing and Load Testing API DummyJSON (Apache Jmeter)",
         description: "This project Load Test API DummyJSON using Apache Jmeter",
         image: "/images/projects/jmeter.png",
@@ -96,7 +108,7 @@ export const projects = [
     },
 
       {
-        id: 9,
+        id: 11,
         title: "Website Fuegomerch",
         description: "I’m building an e-commerce website as a learning project.",
         image: "/images/projects/Macbook.png",
@@ -108,7 +120,7 @@ export const projects = [
     },
 
     {
-        id: 10,
+        id: 12,
         title: "Web Fuegomerch mobile version",
         description: "I’m building an e-commerce website as a learning project.",
         image: "/images/projects/iPhone.png",
