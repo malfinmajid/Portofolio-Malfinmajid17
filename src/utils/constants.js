@@ -17,12 +17,12 @@ export const Social_Links = {
 export const Stats = [
     { label: 'Tested Applications', value: '02' },
     { label: 'Testing Tools', value: '05' },
-    { label: 'Test Scenarios Created', value: '100+' },
+    { label: 'Test Scenarios Created', value: '198+' },
 ];
 
 export const About_Stats = [
   { label: 'GitHub Repositories', value: '09' },
-  { label: 'Test Cases & Bug Report Created', value: '04+' },
+  { label: 'Test Cases & Bug Report Created', value: '45+' },
   { label: 'Test Plans Written', value: '02+' },
 ];
 
