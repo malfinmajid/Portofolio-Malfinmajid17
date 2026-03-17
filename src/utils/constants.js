@@ -22,7 +22,7 @@ export const Stats = [
 
 export const About_Stats = [
   { label: 'GitHub Repositories', value: '09' },
-  { label: 'Test Cases & Bug Report Created', value: '45+' },
+  { label: 'Test Cases & Bug Report Created', value: '198+' },
   { label: 'Test Plans Written', value: '02+' },
 ];
 
